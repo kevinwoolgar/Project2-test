@@ -1,2 +1,3 @@
-# Techdegree_Project-2
- Mobile-first Responsive Layout
+ Mobile-first-Responsive-Layout
+# Techdegree-Project-2
+
